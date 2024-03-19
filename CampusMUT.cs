@@ -1,8 +1,8 @@
 namespace CampusMUT
 {
-    public partial class Form1 : Form
+    public partial class CampusMUT : Form
     {
-        public Form1()
+        public CampusMUT()
         {
             InitializeComponent();
         }
